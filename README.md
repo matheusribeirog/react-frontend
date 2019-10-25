@@ -1,2 +1,2 @@
 # react-frontend
-React front end
+React front end for study purpouse.
